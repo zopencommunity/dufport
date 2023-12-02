@@ -1,4 +1,4 @@
-[![Automatic version updates](https://github.com/ZOSOpenTools/dufport/actions/workflows/bump.yml/badge.svg)](https://github.com/ZOSOpenTools/dufport/actions/workflows/bump.yml)\n\n
+[![Automatic version updates](https://github.com/ZOSOpenTools/dufport/actions/workflows/bump.yml/badge.svg)](https://github.com/ZOSOpenTools/dufport/actions/workflows/bump.yml)
 
 duf
 
